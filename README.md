@@ -4,8 +4,8 @@ Modified version of DNS Jumper for Iranian users with regular updates.
 # Files
 Project contains original DnsJumper.exe (v2.3), and a modified DnsJumper.ini which includes DNS optimal for Iranian users.
 
-File : DnsJumper.exe  
-MD5 : 142c1cb2e06b3f3e231f99b7cc4a91b2
+File: DnsJumper.exe  
+MD5: 142c1cb2e06b3f3e231f99b7cc4a91b2
 
 # Original Creator
 https://sorudum.org  
