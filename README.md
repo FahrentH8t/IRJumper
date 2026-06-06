@@ -34,6 +34,7 @@ IRJumper includes carefully selected DNS services to improve browsing experience
 | -------------- | ------------------------------------------------------------------------------------------------------ | --------------------------------- |
 | 🛡️ **Shecan** | DNS service designed to improve access to websites and services affected by sanctions and restrictions.             | [shecan.ir](https://shecan.ir)    |
 | ⚡ **DynX** | Modern DNS service with built-in ad blocking, anti-sanction capabilities, and support for the latest DNS protocols. | [dynx.pro](https://www.dynx.pro/) |
+| 🎮 **LagZero** | Gaming-focused DNS service designed to optimize connectivity and support a smoother online gaming experience. | [lagzerotm.com](https://lagzerotm.com/) |
 
 > ℹ️ All DNS services listed above are operated and maintained by their respective owners. IRJumper only provides predefined configurations for easier access and management through DNS Jumper.
 
