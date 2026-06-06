@@ -1,4 +1,4 @@
-# 🌐 🇮🇷 IRJumper
+# 🌐 IRJumper <img src="https://flagcdn.com/w20/ir.png" width="20" />
 
 A customized version of `DnsJumper.ini` bundled with the original **DNS Jumper v2.3**, optimized for Iranian users to improve browsing speed, enhance privacy, and provide better DNS options with regular updates.
 
