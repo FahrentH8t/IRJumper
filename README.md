@@ -2,8 +2,8 @@
 Modified version of DnsJumper.ini bundled with original DnsJumper v2.3 for Iranian users to use for better browsing speed and/or improve your security, with regular updates.
 
 # Install
-Download DnsJumper.ini and replace it inside the DnsJumper folder.
-or
+Download DnsJumper.ini and replace it inside the DnsJumper folder.  
+or  
 Download the package, run, and set your desired DNS.
 
 # Files
