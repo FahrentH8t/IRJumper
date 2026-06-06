@@ -26,6 +26,20 @@ A customized version of `DnsJumper.ini` bundled with the original **DNS Jumper v
 2. Run `DnsJumper.exe`
 3. Select and apply your preferred DNS server
 
+## 🌟 Included DNS Providers
+
+IRJumper includes carefully selected DNS services to improve browsing experience for Iranian users.
+
+| Provider       | Description                                                                                            | Website                           |
+| -------------- | ------------------------------------------------------------------------------------------------------ | --------------------------------- |
+| 🛡️ **Shecan** | DNS service designed to improve access to websites affected by sanctions and restrictions.             | [shecan.ir](https://shecan.ir)    |
+| ⚡ **DynX** | Modern DNS service with built-in ad blocking, anti-sanction capabilities, and support for the latest DNS protocols. | [dynx.pro](https://www.dynx.pro/) |
+
+
+> ℹ️ All DNS services listed above are operated and maintained by their respective owners. IRJumper only provides predefined configurations for easier access and management through DNS Jumper.
+
+
+
 ## 📁 Included Files
 
 This repository contains:
