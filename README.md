@@ -1,5 +1,7 @@
 # 🌐 IRJumper
 
+![Iran](https://img.shields.io/badge/Optimized%20for-Iran-239f40?style=for-the-badge)
+
 A customized version of `DnsJumper.ini` bundled with the original **DNS Jumper v2.3**, optimized for Iranian users to improve browsing speed, enhance privacy, and provide better DNS options with regular updates.
 
 > ⚠️ **Disclaimer:** This project is not affiliated with or endorsed by Sordum.org. DNS Jumper is the property of its original author.
