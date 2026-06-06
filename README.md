@@ -9,7 +9,7 @@ Download the package, run, and set your desired DNS.
 # Files
 Project contains a modified DnsJumper.ini and a EULA.txt (Author License Agreement) and Original DnsJumper.exe which includes DNS optimal for Iranian users. No modification is done to the original .exe file.
 
-File : DnsJumper.exe
+File : DnsJumper.exe  
 MD5 : 142c1cb2e06b3f3e231f99b7cc4a91b2
 
 # Original Creator
