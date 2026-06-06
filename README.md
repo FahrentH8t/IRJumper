@@ -1,6 +1,4 @@
-# 🌐 IRJumper
-
-![Iran](https://img.shields.io/badge/Optimized%20for-Iran-239f40?style=for-the-badge)
+# 🌐 🇮🇷 IRJumper
 
 A customized version of `DnsJumper.ini` bundled with the original **DNS Jumper v2.3**, optimized for Iranian users to improve browsing speed, enhance privacy, and provide better DNS options with regular updates.
 
