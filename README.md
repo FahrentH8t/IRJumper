@@ -4,7 +4,7 @@ Modified version of DnsJumper.ini for Iranian users to use in DnsJumper v2.3 wit
 # Files
 Project contains a modified DnsJumper.ini which includes DNS optimal for Iranian users.
 
-#Install
+# Install
 Download DnsJumper.ini and replace it inside the DnsJumper folder.
 
 # Original Creator
